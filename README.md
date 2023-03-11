@@ -8,7 +8,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    I am <img src="https://readme-typing-svg.herokuapp.com/?lines=UWaterloo graduate;CST Student at BCIT....;and an aspiring full-stack developer!&center=true&size=30">
+    I am [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&pause=500&color=007BFF&width=435&lines=a+UWaterloo+graduate%2C;a+CST+Student+at+BCIT%2C;and+an+aspiring+software+developer.)](https://git.io/typing-svg)
   </a>
 </h1>
 
