@@ -6,7 +6,7 @@
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-green?style=flat-square&logo=Spotify&logoColor=white&color=1db954)](https://open.spotify.com/user/22wp3udkqoekawynox5ztcphi?si=c9a3f6c28b024040)
 [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/users/401554120370028555)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&duration=4997&pause=500&color=61DAFB&background=14FF6400&width=433&height=70&lines=I+am+a+CST+Student+at+BCIT%2C+;a+UWaterloo+graduate%2C;and+an+aspiring+software+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&duration=4997&pause=500&color=49A3BC&background=14FF6400&width=433&height=70&lines=I+am+a+CST+Student+at+BCIT%2C+;a+UWaterloo+graduate%2C;and+an+aspiring+software+developer.)](https://git.io/typing-svg)
 
 <h2>⚡ Stats ⚡</h2>
 
