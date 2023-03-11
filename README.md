@@ -3,7 +3,6 @@
 </div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gdcho)
-[![Github Badge](https://img.shields.io/badge/Github-3b5998?style=flat-square&logo=google-Github&logoColor=white)](https://github.com/gdcho)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rjsgml_/)
 
 
