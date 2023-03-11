@@ -10,6 +10,7 @@
 <h2>⚡Stats⚡</h2>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gdcho&theme=react&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/gdcho/github-readme-stats)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
