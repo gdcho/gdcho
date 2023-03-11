@@ -8,7 +8,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    I am <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&duration=4997&pause=500&color=007BFF&width=435&lines=a+UWaterloo+graduate%2C;a+CST+Student+at+BCIT%2C;and+an+aspiring+software+developer." alt="Typing SVG" /></a>
+    I am <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&duration=4997&pause=500&color=007BFF&width=435&lines=a+UWaterloo+graduate%2C;a+CST+Student+at+BCIT%2C;and+an+aspiring+software+developer." alt="Typing SVG" /></a>
   </a>
 </h1>
 
