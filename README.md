@@ -8,9 +8,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&duration=4997&pause=500&color=61DAFB&background=14FF6400&width=433&height=70&lines=I+am+a+CST+Student+at+BCIT%2C+;a+UWaterloo+graduate%2C;and+an+aspiring+software+developer.)](https://git.io/typing-svg)
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2>⚡ Stats ⚡</h2>
 
-<p align="center">
+<p align>
   <div align="center">
     <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=gdcho&theme=react&hide_border=true" alt="GitHub Streak" />
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=gdcho&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
