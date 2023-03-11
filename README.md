@@ -10,6 +10,7 @@
 <h2>⚡Stats⚡</h2>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gdcho&theme=react&hide_border=true)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdcho&show_icons=true&theme=react&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdcho&layout=compact&theme=react&hide_border=true&langs_count=6)](https://github.com/gdcho/github-readme-stats)
 
 <p align="center">
