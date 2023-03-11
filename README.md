@@ -8,17 +8,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&duration=4997&pause=500&color=61DAFB&background=14FF6400&width=433&height=70&lines=I+am+a+CST+Student+at+BCIT%2C+;a+UWaterloo+graduate%2C;and+an+aspiring+software+developer.)](https://git.io/typing-svg)
 
-<div style="display: flex; justify-content: space-between;">
-    <div>
-        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gdcho&theme=react&hide_border=true&width=300)](https://git.io/streak-stats)
-    </div>
-    <div>
-        ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gdcho&show_icons=true&theme=react&hide_border=true&width=300)
-    </div>
-    <div>
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdcho&layout=compact&theme=react&hide_border=true&langs_count=6&width=300)](https://github.com/gdcho/github-readme-stats)
-    </div>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=gdcho&theme=react&hide_border=true&width=300" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gdcho&show_icons=true&theme=react&hide_border=true&width=300" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdcho&layout=compact&theme=react&hide_border=true&langs_count=6&width=300" alt="Top Languages" />
 </div>
+
 
 
 <p align="center">
