@@ -10,11 +10,12 @@
 
 <p align="center">
   <div align="center">
-    <img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=gdcho&theme=react&hide_border=true" alt="GitHub Streak" />
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=gdcho&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=gdcho&theme=react&hide_border=true" alt="GitHub Streak" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=gdcho&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
   </div>
+  <br>
   <div align="center">
-    <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdcho&layout=compact&theme=react&hide_border=true&langs_count=6" alt="Top Languages" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdcho&layout=compact&theme=react&hide_border=true&langs_count=6" alt="Top Languages" />
   </div>
 </p>
 
