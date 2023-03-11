@@ -1,3 +1,26 @@
+<meta name="theme-color" content="#ffffff"> <!-- Set the default theme color to white -->
+	<style>
+		h1 {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			text-align: center;
+			margin-top: 50px;
+			color: #ffffff; /* Set the default text color to white */
+		}
+		
+		@media (prefers-color-scheme: dark) {
+			h1 {
+				color: #CCCCCC; /* Set the text color to gray for dark mode */
+			}
+		}
+		
+		@media (prefers-color-scheme: light) {
+			h1 {
+				color: #000000; /* Set the text color to black for light mode */
+			}
+		}
+	</style>
 <div>
    <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://github.com/gdcho">David</a> </h1>
 </div>
@@ -6,7 +29,7 @@
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-green?style=flat-square&logo=Spotify&logoColor=white&color=1db954)](https://open.spotify.com/user/22wp3udkqoekawynox5ztcphi?si=c9a3f6c28b024040)
 [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/users/401554120370028555)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&duration=4997&pause=500&color=50A4FC&width=435&lines=I+am+a+CST+Student+at+BCIT%2C+;a+UWaterloo+graduate%2C;and+an+aspiring+software+developer.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&duration=4997&pause=500&color=FFFFFF&width=435&lines=I+am+a+CST+Student+at+BCIT%2C+;a+UWaterloo+graduate%2C;and+an+aspiring+software+developer." alt="Typing SVG" /></a>
 
 ![](https://raw.githubusercontent.com/gdcho/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/gdcho/github-stats-transparent/output/generated/languages.svg)
