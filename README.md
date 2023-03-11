@@ -8,9 +8,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&duration=4997&pause=500&color=0E8DFF&background=14FF6400&width=433&height=70&lines=I+am+a+CST+Student+at+BCIT%2C+;a+UWaterloo+graduate%2C;and+an+aspiring+software+developer.)](https://git.io/typing-svg)
 
-<h2>⚡ Stats ⚡</h2>
-![](https://raw.githubusercontent.com/gdcho/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/gdcho/github-stats-transparent/output/generated/languages.svg)
+<h2>⚡Stats⚡</h2>
+
 
 
 <p align="center">
