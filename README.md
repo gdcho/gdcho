@@ -6,7 +6,11 @@
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-green?style=flat-square&logo=Spotify&logoColor=white&color=1db954)](https://open.spotify.com/user/22wp3udkqoekawynox5ztcphi?si=c9a3f6c28b024040)
 [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/users/401554120370028555)
 
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    I am <img src="https://readme-typing-svg.herokuapp.com/?lines=UWaterloo graduate;CST Student at BCIT....;and an aspiring full-stack developer!&center=true&size=30">
+  </a>
+</h1>
 
 ![](https://raw.githubusercontent.com/gdcho/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/gdcho/github-stats-transparent/output/generated/languages.svg)
