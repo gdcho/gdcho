@@ -7,8 +7,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rjsgml_/)
 
 
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/gdcho/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/gdcho/github-stats-transparent/output/generated/languages.svg)
 
 <!--
 **gdcho/gdcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
