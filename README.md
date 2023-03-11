@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&duration=4997&pause=500&color=0E8DFF&background=14FF6400&width=433&height=70&lines=I+am+a+CST+Student+at+BCIT%2C+;a+UWaterloo+graduate%2C;and+an+aspiring+software+developer.)](https://git.io/typing-svg)
 <h2>⚡Stats⚡</h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gdcho&theme=react&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdcho&layout=compact&theme=react&hide_border=true&langs_count=6)](https://github.com/gdcho/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/gdcho/github-readme-stats)
 
 <p align="center">
