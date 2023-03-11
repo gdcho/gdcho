@@ -4,6 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gdcho)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rjsgml_/)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-e4405f?style=flat-square&logo=Spotify&logoColor=white)]([https://instagram.com/rjsgml_/](https://open.spotify.com/user/22wp3udkqoekawynox5ztcphi?si=c9a3f6c28b024040))
 
 
 ![](https://raw.githubusercontent.com/gdcho/github-stats-transparent/output/generated/overview.svg)
