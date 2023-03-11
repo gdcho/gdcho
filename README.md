@@ -10,12 +10,11 @@
 
 <h2>⚡ Stats ⚡</h2>
 
-<p align>
-  <div>
-    <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=gdcho&theme=react&hide_border=true" alt="GitHub Streak" />
-     <img height="150" src="https://github-readme-stats.vercel.app/api?username=gdcho&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-  </div>
+<p align="center">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=gdcho&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=gdcho&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
