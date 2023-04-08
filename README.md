@@ -1,5 +1,7 @@
 <div>
-   <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://github.com/gdcho">David</a> </h1>
+   <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://github.com/gdcho">David</a>
+   <img src="https://github.com/gdcho/gdcho/blob/main/david-memoji%20(2).png" width="30px">
+   </h1>
 </div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gdcho)
