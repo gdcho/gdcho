@@ -9,7 +9,7 @@
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&duration=4000&pause=1000&color=61DAFB&width=435&lines=I+am+a+CST+Student+at+BCIT%2C;a+uWaterloo+graduate%2C;and+an+aspiring+software+developer.)](https://git.io/typing-svg)
 
-<h2>💻 Technologies & Tools 💻</h2>
+<h2>💻 Technologies & Tools</h2>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -19,7 +19,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <br>
-<h2>⚡ Stats ⚡</h2>
+<h2>⚡ Stats</h2>
 
 <p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=gdcho&theme=react&hide_border=true" alt="GitHub Streak" />
