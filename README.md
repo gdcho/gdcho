@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
-</p>
 <div>
+   <p align="center">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
+   </p>  
    <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://github.com/gdcho">David 🤠</a>
    </h1>
 </div>
