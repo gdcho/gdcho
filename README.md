@@ -22,6 +22,7 @@
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png?f=webp&w=256"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"></code>
 <code><img height="30" src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png"></code>
+<code><img height="30" src="https://www.svgrepo.com/download/354202/postman-icon.svg"></code>
 
 <br>
 
