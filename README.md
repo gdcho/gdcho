@@ -23,6 +23,8 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"></code>
 <code><img height="30" src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png"></code>
 <code><img height="30" src="https://www.svgrepo.com/download/354202/postman-icon.svg"></code>
+<code><img height="30" src="https://www.svgrepo.com/show/368858/nextjs.svg"></code>
+<code><img height="30" src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png"></code>
 
 <br>
 
