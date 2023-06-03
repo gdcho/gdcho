@@ -31,7 +31,6 @@
 <h2>⚡ Stats ⚡</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=gdcho&theme=react&hide_border=true" alt="GitHub Streak" />
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=gdcho&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdcho&layout=compact&theme=react&hide_border=true" alt="Top Langs" />
 </p>
