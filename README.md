@@ -25,6 +25,7 @@
 <code><img height="30" src="https://www.svgrepo.com/download/354202/postman-icon.svg"></code>
 <code><img height="30" src="https://www.svgrepo.com/show/368858/nextjs.svg"></code>
 <code><img height="30" src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></code>
 
 <br>
 
