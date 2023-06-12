@@ -11,7 +11,7 @@
 
 <h2>💻 Technologies & Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=git,python,java,ts,js,html,css,nodejs,nextjs,firebase,mysql,postgresql,mongodb,postman,prisma&theme=dark
+[![My Skills](https://skillicons.dev/icons?i=git,python,java,ts,js,nodejs,nextjs,firebase,mysql,postgresql,mongodb,postman,prisma&theme=dark
 )](https://skillicons.dev)
 
 <br>
