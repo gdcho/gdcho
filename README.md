@@ -9,20 +9,22 @@
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&duration=4000&pause=1000&color=61DAFB&width=435&lines=I+am+a+CST+Student+at+BCIT%2C;a+uWaterloo+graduate%2C;and+an+aspiring+software+developer.)](https://git.io/typing-svg)
 
-<h2>💻 Technologies & Tools</h2>
+<h2>💻 Technologies & Tools </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=git,python,java,ts,js,nodejs,nextjs,firebase,mysql,postgresql,mongodb,postman,prisma&theme=dark
 )](https://skillicons.dev)
 
 <br>
 
-<h2>⚡ Stats ⚡</h2>
+<h2>🔥 Stats </h2>
 
-<p align="center">
+<p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=gdcho&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdcho&langs_count=8&layout=compact&theme=react&hide_border=true" alt="Top Langs" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
+<h2>🎧 Spotify Activity </h2>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22wp3udkqoekawynox5ztcphi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/22wp3udkqoekawynox5ztcphi?si=ede2b3d48a6b490e)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
