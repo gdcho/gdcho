@@ -25,7 +25,7 @@
 
 <h2>🎧 Spotify Activity </h2>
 
-<a href="https://open.spotify.com/user/22wp3udkqoekawynox5ztcphi?si=ede2b3d48a6b490e" target="_blank">
+<a href="https://open.spotify.com/user/22wp3udkqoekawynox5ztcphi?si=ede2b3d48a6b490e">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=22wp3udkqoekawynox5ztcphi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=61DAFB&bar_color_cover=false" width="50%">
 </a>
 
