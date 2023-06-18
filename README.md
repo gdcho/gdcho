@@ -14,7 +14,7 @@
 [![My Skills Row 1](https://skillicons.dev/icons?i=git,python,java,js,php,html,css,nodejs,express&theme=dark
 )](https://skillicons.dev)
 <br>
-[![My Skills Row 2](https://skillicons.dev/icons?i=nextjs,react,firebase,mysql,postgresql,mongodb,firebase,postman,prisma&theme=dark
+[![My Skills Row 2](https://skillicons.dev/icons?i=bash,nextjs,react,mysql,postgresql,mongodb,firebase,postman,prisma&theme=dark
 )](https://skillicons.dev)
 
 <br>
