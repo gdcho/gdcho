@@ -11,10 +11,10 @@
 
 <h2>💻 Technologies & Tools </h2>
 
-[![My Skills Row 1](https://skillicons.dev/icons?i=git,python,java,js,php,html,css,nodejs,express&theme=dark
-)](https://skillicons.dev)
+[![My Skills Row 2](https://skillicons.dev/icons?i=git,python,java,js,ts,php,html,css,nodejs,express&theme=dark)
+](https://skillicons.dev)
 <br>
-[![My Skills Row 2](https://skillicons.dev/icons?i=nextjs,react,mysql,postgresql,mongodb,firebase,postman,prisma,flask&theme=dark
+[![My Skills Row 2](https://skillicons.dev/icons?i=nextjs,react,redux,mysql,postgresql,mongodb,firebase,postman,prisma,flask&theme=dark
 )](https://skillicons.dev)
 
 <br>
