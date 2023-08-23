@@ -3,9 +3,12 @@
    </h1>
 </div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gdcho)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-green?style=flat-square&logo=Spotify&logoColor=white&color=1db954)](https://open.spotify.com/user/22wp3udkqoekawynox5ztcphi?si=c9a3f6c28b024040)
-[![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/users/401554120370028555)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white
+)](https://linkedin.com/in/gdcho)
+[![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white
+)](https://open.spotify.com/user/22wp3udkqoekawynox5ztcphi?si=c9a3f6c28b024040)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/users/401554120370028555)
+[![Devpost Badge](https://img.shields.io/badge/Devpost-003E54.svg?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/rjsgml?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 <br>
 
