@@ -11,7 +11,7 @@
 
 <br>
 
-<h2>💻 Technologies & Tools </h2>
+<h2>Technologies & Tools </h2>
 
 [![My Skills Row 2](https://skillicons.dev/icons?i=git,python,java,js,ts,php,html,css,nodejs,express&theme=dark)
 ](https://skillicons.dev)
@@ -21,7 +21,7 @@
 
 <br>
 
-<h2>🔥 Stats </h2>
+<h2>Stats </h2>
 
 <p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=gdcho&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
