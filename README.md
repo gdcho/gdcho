@@ -13,10 +13,13 @@
 
 <h2>Technologies & Tools </h2>
 
-[![My Skills Row 2](https://skillicons.dev/icons?i=git,python,java,js,ts,php,html,css,nodejs,express&theme=dark)
+[![My Skills Row 1](https://skillicons.dev/icons?i=python,java,js,ts,php,gcp,postman&theme=dark)
 ](https://skillicons.dev)
 <br>
-[![My Skills Row 2](https://skillicons.dev/icons?i=nextjs,react,redux,mysql,postgresql,mongodb,firebase,postman,prisma,flask&theme=dark
+[![My Skills Row 2](https://skillicons.dev/icons?i=git,jquery,nodejs,express,nextjs,react,redux&theme=dark
+)](https://skillicons.dev)
+<br>
+[![My Skills Row 3](https://skillicons.dev/icons?i=gradle,firebase,mongodb,mysql,postgresql,flask,prisma&theme=dark
 )](https://skillicons.dev)
 
 <br>
