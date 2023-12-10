@@ -1,5 +1,5 @@
 <div>
-   <h1>Hi, I'm <a href="https://github.com/gdcho">David </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+   <h1>Hi, I'm David <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
    </h1>
 </div>
 
@@ -15,7 +15,7 @@
 
 <h2>Technologies & Tools </h2>
 
-[![My Skills Row 1](https://skillicons.dev/icons?i=python,java,js,ts,php,gcp,postman&theme=dark)
+[![My Skills Row 1](https://skillicons.dev/icons?i=python,java,c,js,ts,gcp,postman&theme=dark)
 ](https://skillicons.dev)
 <br>
 [![My Skills Row 2](https://skillicons.dev/icons?i=git,jquery,nodejs,express,nextjs,react,redux&theme=dark
@@ -30,7 +30,7 @@
 
 <p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=gdcho&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdcho&langs_count=8&layout=compact&theme=react&hide_border=true&hide=ejs,XSLT" alt="Top Langs" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdcho&langs_count=8&layout=compact&theme=react&hide_border=true&hide=ejs,XSLT,cmake,css" alt="Top Langs" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
