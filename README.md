@@ -3,12 +3,12 @@
 [![My Skills Row 1](https://skillicons.dev/icons?i=python,java,c,js,ts,gcp,postman&theme=dark)
 ](https://skillicons.dev)
 <br>
-[![My Skills Row 2](https://skillicons.dev/icons?i=git,jquery,nodejs,express,nextjs,react,redux&theme=dark
+[![My Skills Row 2](https://skillicons.dev/icons?i=jquery,nodejs,express,nextjs,react,redux,tailwind&theme=dark
 )](https://skillicons.dev)
 <br>
-[![My Skills Row 3](https://skillicons.dev/icons?i=gradle,firebase,mongodb,mysql,postgresql,flask,prisma&theme=dark
+[![My Skills Row 3](https://skillicons.dev/icons?i=spring,gradle,firebase,mongodb,mysql,postgresql,flask&theme=dark
 )](https://skillicons.dev)
-[![My Skills Row 4](https://skillicons.dev/icons?i=androidstudio,apollo,bash,spring,git,graphql,vercel&theme=dark
+[![My Skills Row 4](https://skillicons.dev/icons?i=git,bash,androidstudio,apollo,graphql,prisma,vercel&theme=dark
 )](https://skillicons.dev)
 
 <h2>Stats </h2>
