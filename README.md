@@ -11,9 +11,7 @@
 
 <h2>Stats </h2>
 
-<p>
+<div>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=gdcho&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdcho&langs_count=8&layout=compact&theme=react&hide_border=true&hide=ejs,XSLT,cmake,css" alt="Top Langs" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</div>
