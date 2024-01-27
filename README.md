@@ -8,6 +8,8 @@
 <br>
 [![My Skills Row 3](https://skillicons.dev/icons?i=gradle,firebase,mongodb,mysql,postgresql,flask,prisma&theme=dark
 )](https://skillicons.dev)
+[![My Skills Row 4](https://skillicons.dev/icons?i=androidstudio,apollo,bash,spring,git,graphql,vercel&theme=dark
+)](https://skillicons.dev)
 
 <h2>Stats </h2>
 
