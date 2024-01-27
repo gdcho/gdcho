@@ -1,4 +1,4 @@
-<h2>Technologies & Tools </h2>
+<h2>Skills </h2>
 
 [![My Skills Row 1](https://skillicons.dev/icons?i=python,java,c,js,ts,gcp,postman&theme=dark)
 ](https://skillicons.dev)
