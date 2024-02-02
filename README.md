@@ -1,6 +1,6 @@
 <h2>Skills </h2>
 
-[![My Skills Row 1](https://skillicons.dev/icons?i=python,java,js,ts,gcp,firebase,postman&theme=dark)
+[![My Skills Row 1](https://skillicons.dev/icons?i=python,java,js,ts,gcp,apollo,postman&theme=dark)
 ](https://skillicons.dev)
 <br>
 [![My Skills Row 2](https://skillicons.dev/icons?i=jquery,nodejs,express,nextjs,react,redux,prisma&theme=dark
