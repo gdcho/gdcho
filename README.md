@@ -14,6 +14,5 @@
 <div>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=gdcho&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
   <br>
-<!--   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdcho&langs_count=8&layout=compact&theme=react&hide_border=true&hide=ejs,XSLT,cmake,css" alt="Top Langs" />
-  -->
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdcho&langs_count=8&layout=compact&theme=react&hide_border=true&hide=ejs,XSLT,cmake,css,Jupyter+Notebook" alt="Top Langs" />
 </div>
