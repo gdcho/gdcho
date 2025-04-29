@@ -25,9 +25,3 @@ A Student‑Powered Course‑Review Platform for BCIT Students to share and brow
 - **Advanced Filtering**  
   Sort by course name, difficulty, likes, and usefulness.
 
-
----
-
-[![My Skills Row 1](https://skillicons.dev/icons?i=python,java,js,ts,go,c,cpp,php,kotlin,postman&theme=dark)](https://skillicons.dev)  
-[![My Skills Row 2](https://skillicons.dev/icons?i=jquery,nodejs,express,nextjs,react,redux,prisma,androidstudio,jest,spring&theme=dark)](https://skillicons.dev)  
-[![My Skills Row 3](https://skillicons.dev/icons?i=docker,kubernetes,gcp,mongodb,mysql,postgresql,graphql,apollo,flask,gradle&theme=dark)](https://skillicons.dev)
