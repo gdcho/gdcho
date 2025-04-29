@@ -2,7 +2,7 @@
 
   <a href="https://clavo.vercel.app">
     <img
-      src="https://img.shields.io/badge/clavo.vercel.app-online-brightgreen?style=for-the-badge"
+      src="https://img.shields.io/badge/clavo.vercel.app-live-brightgreen?style=for-the-badge"
       alt="clavo.vercel.app – Live Site"
     />
   </a>
