@@ -15,8 +15,15 @@ A Student-Powered Course-Review Platform for BCIT Students to share and browse h
 </a>
 
 ## 📝 Core Features
-- **Anonymous Reviews**  
-  Read and write candid feedback on any BCIT CST course.
 
-- **Advanced Filtering**  
-  Sort by course name, difficulty, likes, and usefulness.
+- **Anonymous Reviews**  
+  Share and browse honest feedback on BCIT CST courses without revealing your identity.
+
+- **Course Search & Filter**  
+  Find courses by name and filter by difficulty, likes, or usefulness to explore what suits you best.
+
+- **Program-Powered Search**  
+  Search for your program by keyword to quickly find matching courses and information.
+
+- **Clavo Community Q&A**  
+  Ask and answer questions about courses, instructors, or programs to help and learn from others.
