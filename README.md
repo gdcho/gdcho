@@ -1,4 +1,4 @@
-<details>
+<details open>
   <summary><strong>🚀 Try Clavo</strong></summary>
 
   <br/>
