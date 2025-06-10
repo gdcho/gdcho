@@ -1,4 +1,6 @@
-<details open>
+## 🔍 Featured Works
+
+<details>
   <summary><strong>🚀 Try Clavo</strong></summary>
 
   <br/>
