@@ -50,3 +50,26 @@
   
   <br/>
 </details>
+
+<details>
+  <summary><strong>📚 Try Notion Lib</strong></summary>
+
+  <br/>
+  
+  [![Use Notion Lib on Chrome](https://img.shields.io/badge/Notion%20Lib-Use_on_Chrome-green?style=for-the-badge)](https://chromewebstore.google.com/detail/combmindkcecamkcbimhgapdcmgbejlf?utm_source=item-share-cb)
+   <br/>
+  Easily add books to your Notion library directly from your browser via this Chrome extension.
+  <a href="https://chromewebstore.google.com/detail/combmindkcecamkcbimhgapdcmgbejlf?utm_source=item-share-cb">
+    <img src="https://i.ibb.co/HDTtcP2c/Screenshot-2025-06-28-at-11-51-19-PM.png" width="800px" alt="Notion Lib Screenshot" border="0" />
+  </a>
+
+   ## 📖 Core Features
+  - **Search Books**  
+    Search for books and retrieve detailed information seamlessly.
+  - **Add to Notion**  
+    Instantly add selected books with details to your Notion library with one click.
+  - **Manage API Keys**  
+    Configure your Notion and Google Books API keys directly within the extension.  
+  
+  <br/>
+</details>
