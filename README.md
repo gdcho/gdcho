@@ -37,7 +37,7 @@
    <br/>
   Generate, store, and instantly paste your personalized electronic signature anywhere via Raycast.  
   <a href="https://www.raycast.com/gdcho/clipsign">
-    <img src="https://files.raycast.com/7jukvx9fbokzuveyabcz9u21obne" width="800px" alt="Clipsign Screenshot1" border="0" />
+    <img src="https://i.ibb.co/8g4ZCBjX/Screenshot-2025-06-29-at-12-50-08-AM.png" width="800px" alt="Clipsign Screenshot1" border="0" />
   </a>
 
    ## 📝 Core Features
