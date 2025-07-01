@@ -1,5 +1,3 @@
-## 🔍 Features
-
 <details>
   <summary><strong>🚀 Try Clavo</strong></summary>
 
