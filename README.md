@@ -71,3 +71,20 @@
   
   <br/>
 </details>
+
+<details>
+  <summary><strong>☕ Support My Work</strong></summary>
+
+   <br/>
+
+  <a href="https://www.buymeacoffee.com/yourname" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"
+      alt="Buy Me a Coffee"
+    />
+  </a>  
+
+  Your support helps me dedicate more time to building tools, writing guides, and releasing open-source projects.
+  
+  <br/>
+</details>
