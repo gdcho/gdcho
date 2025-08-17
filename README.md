@@ -73,7 +73,7 @@
 </details>
 
 <details>
-  <summary><strong>🕶️ Try ChromCognito</strong></summary>
+  <summary><strong>🕵️‍♂️ Try ChromCognito</strong></summary>
 
   <br/>
   
@@ -84,7 +84,7 @@
     <img src="https://i.ibb.co/jP03XVcJ/chromcogn.png" width="800px" alt="ChromCognito Screenshot" border="0" />
   </a>
 
-   ## ⚡ Core Features
+   ## 🕶️ Core Features
   - **Hotkey Support**  
     Open Incognito tabs instantly with customizable shortcuts.  
   - **Context Menu Actions**  
