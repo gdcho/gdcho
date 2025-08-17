@@ -73,6 +73,35 @@
 </details>
 
 <details>
+  <summary><strong>🕶️ Try ChromCognito</strong></summary>
+
+  <br/>
+  
+  [![Coming Soon to Chrome](https://img.shields.io/badge/ChromCognito-Coming_Soon-blueviolet?style=for-the-badge)](#)
+  <br/>
+  Open links, tabs, and rules in Incognito with full control using this Chrome extension.
+  <a href="#">
+    <img src="https://i.ibb.co/jP03XVcJ/chromcogn.png" width="800px" alt="ChromCognito Screenshot" border="0" />
+  </a>
+
+   ## ⚡ Core Features
+  - **Hotkey Support**  
+    Open Incognito tabs instantly with customizable shortcuts.  
+  - **Context Menu Actions**  
+    Right-click any link and send it directly to Incognito.  
+  - **Auto-Incognito Rules**  
+    Define rules to always open specific sites in Incognito.  
+  - **Tab Handling & Auto-Close**  
+    Automatically close Incognito tabs after inactivity.  
+  - **Privacy Enhancements**  
+    Manage sessions without leaving history behind.  
+  
+  <br/>
+</details>
+
+
+
+<details>
   <summary><strong>☕ Support My Work</strong></summary>
 
    <br/>
