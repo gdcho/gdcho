@@ -2,12 +2,12 @@
   <summary><strong>🚀 Clavo</strong></summary>
 
   <br/>
-  <a href="https://clavo.vercel.app">
-    <img
-      src="https://img.shields.io/badge/📚%20Get%20Started%20@%20clavo.vercel.app-live-brightgreen?style=for-the-badge"
-      alt="Get Started on Clavo"
-    />
-  </a>  
+ <a href="https://clavo.vercel.app">
+  <img
+    src="https://img.shields.io/badge/📚%20Clavo-temporarily--down-red?style=for-the-badge"
+    alt="Clavo Temporarily Down"
+  />
+</a>
   <br/>
   
   A Student-Powered Course-Review Platform for BCIT Students to share and browse honest feedback on every course.  
