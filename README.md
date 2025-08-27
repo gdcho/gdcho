@@ -9,7 +9,9 @@
     />
   </a>  
   <br/>
+  
   A Student-Powered Course-Review Platform for BCIT Students to share and browse honest feedback on every course.  
+  
   <a href="https://clavo.vercel.app">
     <img src="https://i.ibb.co/9HrZ84Zf/ogimage.png" width="800px" alt="Clavo Screenshot" border="0" />
   </a>
@@ -33,7 +35,8 @@
   
   [![Use ClipSign on Raycast](https://img.shields.io/badge/ClipSign-Use_on_Raycast-blue?style=for-the-badge)](https://www.raycast.com/gdcho/clipsign)
    <br/>
-  Generate, store, and instantly paste your personalized electronic signature anywhere via Raycast.  
+  Generate, store, and instantly paste your personalized electronic signature anywhere via Raycast. 
+  
   <a href="https://www.raycast.com/gdcho/clipsign">
     <img src="https://i.ibb.co/8g4ZCBjX/Screenshot-2025-06-29-at-12-50-08-AM.png" width="800px" alt="Clipsign Screenshot1" border="0" />
   </a>
@@ -57,6 +60,7 @@
   [![Use Notion Lib on Chrome](https://img.shields.io/badge/Notion%20Lib-Use_on_Chrome-green?style=for-the-badge)](https://chromewebstore.google.com/detail/combmindkcecamkcbimhgapdcmgbejlf?utm_source=item-share-cb)
    <br/>
   Easily add books to your Notion library directly from your browser via this Chrome extension.
+  
   <a href="https://chromewebstore.google.com/detail/combmindkcecamkcbimhgapdcmgbejlf?utm_source=item-share-cb">
     <img src="https://i.ibb.co/zHVkG7H2/Notion-Lib-800-x-500-px-1.png" width="800px" alt="Notion Lib Screenshot" border="0" />
   </a>
@@ -73,6 +77,33 @@
 </details>
 
 <details>
+  <summary><strong>🎬 Try Pulse Play</strong></summary>
+
+  <br/>
+  
+  [![Use Pulse Play on Chrome](https://img.shields.io/badge/Pulse%20Play-Use_on_Chrome-green?style=for-the-badge)](https://chromewebstore.google.com/detail/pikagldkaaepekolfnnbanillcgaiffe?utm_source=item-share-cb)
+   <br/>
+  Supercharge your video experience with Pulse Play. Hold a hotkey to instantly speed up videos — perfect for lectures, tutorials, or your favorite shows.
+ 
+  <a href="https://chromewebstore.google.com/detail/pikagldkaaepekolfnnbanillcgaiffe?utm_source=item-share-cb">
+    <img src="https://i.ibb.co/DgCv5K7T/Untitled-1400-x-560-px.png" width="800px" alt="Pulse Play Screenshot" border="0" />
+  </a>
+
+   ## ⚡ Core Features
+  - **Hold-to-Boost**  
+    Press & hold a hotkey to speed up instantly (just like shorts).
+  - **Custom Speeds**  
+    Adjust playback from 1.25x – 5x with full control.  
+  - **Smart Detection**  
+    Works seamlessly with YouTube, Netflix, Vimeo & any HTML5 player.  
+  - **Visual Feedback**  
+    On-screen speed indicator for clarity.  
+
+  <br/>
+</details>
+
+
+<details>
   <summary><strong>🕵️‍♂️ Try ChromCognito</strong></summary>
 
   <br/>
@@ -80,6 +111,7 @@
   [![Coming Soon to Chrome](https://img.shields.io/badge/ChromCognito-Coming_Soon-blueviolet?style=for-the-badge)](#)
   <br/>
   Open links, tabs, and rules in Incognito with full control using this Chrome extension.
+  
   <a href="#">
     <img src="https://i.ibb.co/jP03XVcJ/chromcogn.png" width="800px" alt="ChromCognito Screenshot" border="0" />
   </a>
