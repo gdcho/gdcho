@@ -1,5 +1,5 @@
 <details>
-  <summary><strong>🚀 Try Clavo</strong></summary>
+  <summary><strong>🚀 Clavo</strong></summary>
 
   <br/>
   <a href="https://clavo.vercel.app">
@@ -29,7 +29,7 @@
 </details>
 
 <details>
-  <summary><strong>📋 Try ClipSign</strong></summary>
+  <summary><strong>📋 ClipSign</strong></summary>
 
   <br/>
   
@@ -53,7 +53,7 @@
 </details>
 
 <details>
-  <summary><strong>📚 Try Notion Lib</strong></summary>
+  <summary><strong>📚 Notion Lib</strong></summary>
 
   <br/>
   
@@ -77,7 +77,7 @@
 </details>
 
 <details>
-  <summary><strong>🎬 Try Pulse Play</strong></summary>
+  <summary><strong>🎬 Pulse Play</strong></summary>
 
   <br/>
   
@@ -104,7 +104,7 @@
 
 
 <details>
-  <summary><strong>🕵️‍♂️ Try ChromCognito</strong></summary>
+  <summary><strong>🕵️‍♂️ ChromCognito</strong></summary>
 
   <br/>
   
@@ -145,7 +145,11 @@
     />
   </a>  
 
-  Your support helps me dedicate more time to building tools, writing guides, and releasing open-source projects.
+  Your support helps me dedicate more time to building meaningful solutions.
+
+   <a href="https://www.linkedin.com/company/rj-labs/">
+    <img src="https://i.ibb.co/bcBz54k/Black-Abstract-Software-Technology-Corporate-Linked-In-Banner-1.png" width="800px" alt="rj labs banner" border="0" />
+  </a>
   
   <br/>
 </details>
