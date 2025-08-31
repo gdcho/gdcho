@@ -113,7 +113,7 @@
   Open links, tabs, and rules in Incognito with full control using this Chrome extension.
   
   <a href="#">
-    <img src="https://i.ibb.co/jP03XVcJ/chromcogn.png" width="800px" alt="ChromCognito Screenshot" border="0" />
+    <img src="https://i.ibb.co/RT7rKWWR/Chrom-Cognito-1.png" width="800px" alt="ChromCognito Screenshot" border="0" />
   </a>
 
    ## 🕶️ Core Features
