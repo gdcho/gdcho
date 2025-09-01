@@ -122,9 +122,7 @@
   - **Context Menu Actions**  
     Right-click any link and send it directly to Incognito.  
   - **Auto-Incognito Rules**  
-    Define rules to always open specific sites in Incognito.  
-  - **Tab Handling & Auto-Close**  
-    Automatically close Incognito tabs after inactivity.  
+    Define rules to always open specific sites in Incognito.   
   - **Privacy Enhancements**  
     Manage sessions without leaving history behind.  
   
