@@ -107,12 +107,12 @@
   <summary><strong>🕵️‍♂️ ChromCognito</strong></summary>
 
   <br/>
-  
-  [![Coming Soon to Chrome](https://img.shields.io/badge/ChromCognito-Coming_Soon-blueviolet?style=for-the-badge)](#)
+
+  [![Use ChromCognito on Chrome](https://img.shields.io/badge/Pulse%20Play-Use_on_Chrome-green?style=for-the-badge)](https://chromewebstore.google.com/detail/aoifkanlbdcfdkbofnoodhadmmhllhdg?utm_source=item-share-cb)
   <br/>
   Open links, tabs, and rules in Incognito with full control using this Chrome extension.
   
-  <a href="#">
+  <a href="https://chromewebstore.google.com/detail/aoifkanlbdcfdkbofnoodhadmmhllhdg?utm_source=item-share-cb">
     <img src="https://i.ibb.co/0pvm7Wx0/Chrom-Cognito.png" width="800px" alt="ChromCognito Screenshot" border="0" />
   </a>
 
