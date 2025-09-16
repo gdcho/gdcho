@@ -129,7 +129,57 @@
   <br/>
 </details>
 
+<details>
+  <summary><strong>🔄 Loopify</strong></summary>
 
+  <br/>
+
+  ![Coming Soon](https://img.shields.io/badge/Loopify-Coming_Soon-blueviolet?style=for-the-badge)  
+  <br/>
+  Capture your screen and convert it instantly into GIFs with Loopify. Perfect for tutorials, demos, and sharing quick clips.  
+
+  <a href="https://github.com/gdcho/loopify">
+    <img src="https://i.ibb.co/B2mwYT2D/3.png" width="800px" alt="Loopify Screenshot" border="0" />
+  </a>
+
+   ## 🎬 Core Features
+  - **Screen Capture**  
+    Record your screen with adjustable frame rates.  
+  - **GIF Conversion**  
+    Convert screen recordings into smooth, optimized GIFs.  
+  - **Quality Settings**  
+    Balance quality and file size with flexible options.  
+  - **Recent GIFs**  
+    Quickly access and download your latest creations.  
+
+  <br/>
+</details>
+
+<details>
+  <summary><strong>📝 Transcribr</strong></summary>
+
+  <br/>
+
+  ![Coming Soon](https://img.shields.io/badge/Transcribr-Coming_Soon-teal?style=for-the-badge)  
+  <br/>
+  Transcribe computer audio into text instantly with a clean, intuitive interface powered by the Web Speech API.  
+
+  <a href="https://github.com/gdcho/transcribr">
+    <img src="https://i.ibb.co/7xT075PG/4.png" width="800px" alt="Transcribr Screenshot" border="0" />
+  </a>
+
+   ## 🎤 Core Features
+  - **Real-Time Recognition**  
+    Convert computer audio into live text.  
+  - **Multi-Language Support**  
+    Transcribe across languages and dialects.  
+  - **Auto-Save Transcriptions**  
+    Automatically save your transcripts locally.  
+  - **Quick Access**  
+    Start or stop with hotkeys or the context menu.  
+
+  <br/>
+</details>
 
 <details>
   <summary><strong>☕ Support My Work</strong></summary>
