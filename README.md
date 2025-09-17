@@ -139,7 +139,7 @@
   Capture your screen and convert it instantly into GIFs with Loopify. Perfect for tutorials, demos, and sharing quick clips.  
 
   <a href="https://github.com/gdcho/loopify">
-    <img src="https://i.ibb.co/nNw8BSMd/3.png" width="800px" alt="Loopify Screenshot" border="0" />
+    <img src="./3.png" width="800" height="500" alt="Loopify Screenshot" />
   </a>
 
    ## 🎬 Core Features
@@ -165,7 +165,7 @@
   Transcribe computer audio into text instantly with a clean, intuitive interface powered by the Web Speech API.  
 
   <a href="https://github.com/gdcho/transcribr">
-    <img src="https://i.ibb.co/KpcwrmjN/4.png" width="800px" alt="Transcribr Screenshot" border="0" />
+    <img src="./4.png" width="800px" alt="Transcribr Screenshot" border="0" />
   </a>
 
    ## 🎤 Core Features
