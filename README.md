@@ -62,7 +62,7 @@
   Easily add books to your Notion library directly from your browser via this Chrome extension.
   
   <a href="https://chromewebstore.google.com/detail/combmindkcecamkcbimhgapdcmgbejlf?utm_source=item-share-cb">
-    <img src="https://i.ibb.co/zHVkG7H2/Notion-Lib-800-x-500-px-1.png" width="800px" alt="Notion Lib Screenshot" border="0" />
+    <img src="./notion_lib.png" width="800" height="500" alt="Notion Lib Screenshot" />
   </a>
 
    ## 📖 Core Features
@@ -86,7 +86,7 @@
   Supercharge your video experience with Pulse Play. Hold a hotkey to instantly speed up videos — perfect for lectures, tutorials, or your favorite shows.
  
   <a href="https://chromewebstore.google.com/detail/pikagldkaaepekolfnnbanillcgaiffe?utm_source=item-share-cb">
-    <img src="https://i.ibb.co/DgCv5K7T/Untitled-1400-x-560-px.png" width="800px" alt="Pulse Play Screenshot" border="0" />
+    <img src="./pulseplay.png" width="800" height="500" alt="Pulse Play Screenshot" />
   </a>
 
    ## ⚡ Core Features
