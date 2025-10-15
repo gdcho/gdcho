@@ -108,7 +108,7 @@
 
   <br/>
 
-  [![Use ChromCognito on Chrome](https://img.shields.io/badge/Pulse%20Play-Use_on_Chrome-green?style=for-the-badge)](https://chromewebstore.google.com/detail/aoifkanlbdcfdkbofnoodhadmmhllhdg?utm_source=item-share-cb)
+  [![Use ChromCognito on Chrome](https://img.shields.io/badge/Chromcognito-Use_on_Chrome-green?style=for-the-badge)](https://chromewebstore.google.com/detail/aoifkanlbdcfdkbofnoodhadmmhllhdg?utm_source=item-share-cb)
   <br/>
   Open links, tabs, and rules in Incognito with full control using this Chrome extension.
   
@@ -134,11 +134,11 @@
 
   <br/>
 
-  ![Coming Soon](https://img.shields.io/badge/Loopify-Coming_Soon-blueviolet?style=for-the-badge)  
+  [![Use Loopify on Chrome](https://img.shields.io/badge/Loopify-Use_on_Chrome-green?style=for-the-badge)](https://chromewebstore.google.com/detail/begpbcikpkelgofbccacfdamdgdmgpcp?utm_source=item-share-cb)
   <br/>
   Capture your screen and convert it instantly into GIFs with Loopify. Perfect for tutorials, demos, and sharing quick clips.  
 
-  <a href="https://github.com/gdcho/loopify">
+  <a href="https://chromewebstore.google.com/detail/begpbcikpkelgofbccacfdamdgdmgpcp?utm_source=item-share-cb">
     <img src="./3.png" width="800" height="500" alt="Loopify Screenshot" />
   </a>
 
