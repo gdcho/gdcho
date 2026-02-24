@@ -162,7 +162,7 @@
 
   ![Coming Soon](https://img.shields.io/badge/Transcribr-Coming_Soon-teal?style=for-the-badge)  
   <br/>
-  Transcribe computer audio into text instantly with a clean, intuitive interface powered by the Web Speech API.  
+  Transcribr is a Chrome extension that captures audio from browser tabs and displays real-time transcriptions as a caption overlay, powered by Deepgram.
 
   <a href="https://github.com/gdcho/transcribr">
     <img src="./transcribr-head.png" width="800px" alt="Transcribr Screenshot" border="0" />
