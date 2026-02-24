@@ -165,7 +165,7 @@
   Transcribe computer audio into text instantly with a clean, intuitive interface powered by the Web Speech API.  
 
   <a href="https://github.com/gdcho/transcribr">
-    <img src="./4.png" width="800px" alt="Transcribr Screenshot" border="0" />
+    <img src="./transcribr-head.png" width="800px" alt="Transcribr Screenshot" border="0" />
   </a>
 
    ## 🎤 Core Features
@@ -173,10 +173,10 @@
     Convert computer audio into live text.  
   - **Multi-Language Support**  
     Transcribe across languages and dialects.  
-  - **Auto-Save Transcriptions**  
-    Automatically save your transcripts locally.  
+  - **Powered by Deepgram**  
+    Voice AI APIs that Just Work.  
   - **Quick Access**  
-    Start or stop with hotkeys or the context menu.  
+    Press one button.
 
   <br/>
 </details>
