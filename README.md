@@ -160,7 +160,8 @@
 
   <br/>
 
-  ![Coming Soon](https://img.shields.io/badge/Transcribr-Coming_Soon-teal?style=for-the-badge)  
+ [![Use transcribr on Chrome](https://img.shields.io/badge/Transcribr-Coming_Soon-teal?style=for-the-badge)](https://chromewebstore.google.com/detail/transcribr-real-time-live/kokohillmfkodpijdjhkipjfhdhfjdgd?authuser=0&hl=en)
+ 
   <br/>
   Transcribr is a Chrome extension that captures audio from browser tabs and displays real-time transcriptions as a caption overlay, powered by Deepgram.
 
