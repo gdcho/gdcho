@@ -183,6 +183,35 @@
 </details>
 
 <details>
+  <summary><strong>📄 FlowCV </strong></summary>
+
+  <br/>
+
+[![Coming Soon](https://img.shields.io/badge/FlowCV-Coming_Soon-green?style=for-the-badge)](#)
+
+
+  FlowCV is a Chrome extension that tailors your Overleaf LaTeX resume to specific job descriptions using Claude AI, providing real-time edit suggestions directly within your editor.
+  
+  <a href="#">
+    <img src="./flowCV_banner.png" width="800px" alt="FlowCV Screenshot" border="0" />
+  </a>
+
+   ## 🎤 Core Features
+  - **One-Click Capture**  
+    Extract job requirements directly from LinkedIn postings.
+  - **AI-Powered Tailoring**  
+    Leverage Claude AI to generate targeted resume optimizations.
+  - **Word-Level Diffs**  
+    Preview exact changes before applying them to your LaTeX code.
+  - **Auto-Recompile**  
+    Apply edits and see your updated PDF instantly in Overleaf.
+
+  <br/>
+</details>
+
+
+
+<details>
   <summary><strong>☕ Support My Work</strong></summary>
 
    <br/>
