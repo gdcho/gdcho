@@ -160,7 +160,7 @@
 
   <br/>
 
- [![Use transcribr on Chrome](https://img.shields.io/badge/Transcribr-Use_on_Chrome-teal?style=for-the-badge)](https://chromewebstore.google.com/detail/transcribr-real-time-live/kokohillmfkodpijdjhkipjfhdhfjdgd?authuser=0&hl=en)
+ [![Use transcribr on Chrome](https://img.shields.io/badge/Transcribr-Use_on_Chrome-green?style=for-the-badge)](https://chromewebstore.google.com/detail/transcribr-real-time-live/kokohillmfkodpijdjhkipjfhdhfjdgd?authuser=0&hl=en)
 
 
   Transcribr is a Chrome extension that captures audio from browser tabs and displays real-time transcriptions as a caption overlay, powered by Deepgram.
@@ -187,12 +187,12 @@
 
   <br/>
 
-[![Coming Soon](https://img.shields.io/badge/FlowCV-Coming_Soon-green?style=for-the-badge)](#)
+[![Use on Chrome](https://img.shields.io/badge/FlowCV-Use_on_Chrome-green?style=for-the-badge)](https://chromewebstore.google.com/detail/flowcv-ai-resume-tailorin/bilhkdfmllnbhkhamoemaeipbdhmjlee?authuser=0&hl=en)
 
 
   FlowCV is a Chrome extension that tailors your Overleaf LaTeX resume to specific job descriptions using Claude AI, providing real-time edit suggestions directly within your editor.
   
-  <a href="#">
+  <a href="https://github.com/gdcho/FlowCV">
     <img src="./flowCV_banner.png" width="800px" alt="FlowCV Screenshot" border="0" />
   </a>
 
