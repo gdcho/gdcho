@@ -183,7 +183,7 @@
 </details>
 
 <details>
-  <summary><strong>📄 FlowCV </strong></summary>
+  <summary><strong>🍃 FlowCV </strong></summary>
 
   <br/>
 
