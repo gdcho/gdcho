@@ -209,6 +209,31 @@
   <br/>
 </details>
 
+<details>
+  <summary><strong>📞 Geodial </strong></summary>
+
+  <br/>
+
+[![Coming Soon](https://img.shields.io/badge/Coming-Soon-green?style=for-the-badge)](#)
+
+
+  Geodial is a Chrome extension and web app for performance marketers to find and research available phone numbers by area code, city, or ZIP code.
+  
+  <a href="#">
+    <img src="./Geodialbanner.png" width="800px" alt="FlowCV Screenshot" border="0" />
+  </a>
+
+   ## 🎤 Core Features
+  - **Comprehensive US & Canada Lookup**  
+    Toggle between US and Canada with support for states, provinces, ZIP codes, and postal codes. Enter any area code to see the country, state/province, and every city/town served. Conversely, search by city or ZIP/postal code to find all serving area codes.
+  - **Available Number Search & Filtering**  
+    Search for available Twilio phone numbers by area code, city + state, or ZIP code. Use built-in filters to exclude repeating digits or choppy patterns to find clean, professional numbers.
+  - **Carrier Insights**  
+    Each available number includes an integrated lookup, showing its underlying carrier.
+
+  <br/>
+</details>
+
 
 
 <details>
