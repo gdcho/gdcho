@@ -222,7 +222,7 @@
   Geodial is a Chrome extension and web app for performance marketers to find and research available phone numbers by area code, city, or ZIP code.
   
   <a href="#">
-    <img src="./Geodialbanner.png" width="800px" alt="FlowCV Screenshot" border="0" />
+    <img src="./Geodialbanner.png" width="800px" alt="GeoDial Screenshot" border="0" />
   </a>
 
    ## 🎤 Core Features
@@ -232,6 +232,35 @@
     Search for available Twilio phone numbers by area code, city + state, or ZIP code. Use built-in filters to exclude repeating digits or choppy patterns to find clean, professional numbers.
   - **Carrier Insights**  
     Each available number includes an integrated lookup, showing its underlying carrier.
+
+  <br/>
+</details>
+
+
+<details>
+  <summary><strong>👻 GhostPlayer </strong></summary>
+
+  <br/>
+
+[![Coming Soon](https://img.shields.io/badge/GhostPlayer-Coming_Soon-yellow?style=for-the-badge)](#)
+
+
+  Geodial is a Chrome extension that floats any **non-DRM** HTML5 video into a frameless, always-on-top overlay with a stealth **Hide Mode** — the video only plays and reveals itself when your cursor is inside the window.
+
+  
+  <a href="#">
+    <img src="./ghostplayerbanner.png" width="800px" alt="Ghost Player Banner" border="0" />
+  </a>
+
+   ## 🎤 Core Features
+  - **One-click detach** - a ghost icon button appears when you hover over any `<video>` element on any page
+  - **Zero-lag overlay** - the original video element is physically moved into the PiP window; no re-encoding or stream copying
+  - **Hide Mode** - window goes black and video pauses when your cursor leaves; hover back in to instantly resume
+  - **Minimal controls** - seek bar, play/pause, volume, playback speed (0.5×–2×)
+  - **Keyboard shortcuts** - full keyboard control within the overlay window
+  - **Non-intrusive injection** - button uses `position: fixed` so it never breaks the host page layout
+  - **Dynamic detection** - `MutationObserver` catches videos added after page load (SPAs, lazy-loaded players)
+  - **Non-DRM only** - works with any unencrypted HTML5 video; DRM-protected streams are not supported
 
   <br/>
 </details>
