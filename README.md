@@ -242,10 +242,10 @@
 
   <br/>
 
-[![Coming Soon](https://img.shields.io/badge/GhostPlayer-Coming_Soon-yellow?style=for-the-badge)](#)
+[![Use on Chrome](https://img.shields.io/badge/GhostPlayer-Use_on_Chrome-green?style=for-the-badge)](https://chromewebstore.google.com/detail/knnhegiidjpgeobefnpodagmocacpnip?utm_source=item-share-cb)
 
 
-  Geodial is a Chrome extension that floats any **non-DRM** HTML5 video into a frameless, always-on-top overlay with a stealth **Hide Mode** — the video only plays and reveals itself when your cursor is inside the window.
+  Ghost Player is a Chrome extension that floats any **non-DRM** HTML5 video into a frameless, always-on-top overlay with a stealth **Hide Mode** - the video only plays and reveals itself when your cursor is inside the window.
 
   
   <a href="#">
@@ -253,14 +253,21 @@
   </a>
 
    ## 🎤 Core Features
-  - **One-click detach** - a ghost icon button appears when you hover over any `<video>` element on any page
-  - **Zero-lag overlay** - the original video element is physically moved into the PiP window; no re-encoding or stream copying
-  - **Hide Mode** - window goes black and video pauses when your cursor leaves; hover back in to instantly resume
-  - **Minimal controls** - seek bar, play/pause, volume, playback speed (0.5×–2×)
-  - **Keyboard shortcuts** - full keyboard control within the overlay window
-  - **Non-intrusive injection** - button uses `position: fixed` so it never breaks the host page layout
-  - **Dynamic detection** - `MutationObserver` catches videos added after page load (SPAs, lazy-loaded players)
-  - **Non-DRM only** - works with any unencrypted HTML5 video; DRM-protected streams are not supported
+  - **One-click detach**
+
+    When enabled, a GhostPlayer button appears when you hover over any `<video>` element; hides while the overlay is open, reappears on close
+  - **Zero-lag overlay**
+
+    The original video element is physically moved into the PiP window; no re-encoding or stream copying
+  - **Hide Mode**
+
+    Window goes black and video pauses when your cursor leaves; hover back in to instantly resume
+  - **Smart injection**
+
+    Button only appears on real video players, not preview thumbnails or feed pages
+  - **Dynamic detection**
+
+    `MutationObserver` catches videos added after page load (SPAs, lazy-loaded players)
 
   <br/>
 </details>
