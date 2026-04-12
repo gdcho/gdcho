@@ -216,7 +216,7 @@
 
 [![Use on Chrome](https://img.shields.io/badge/GeoDial-Use_on_Chrome-green?style=for-the-badge)](https://chromewebstore.google.com/detail/geodial-area-code-phone-n/oaeoojhbjjaamcokjohickbbebckfmgm?authuser=0&hl=en)
 
-[![Use Website](https://img.shields.io/badge/GeoDial-Use_Website-teal?style=for-the-badge)](https://geo-dial.vercel.app/)
+[![Use Website](https://img.shields.io/badge/GeoDial-Use_Website-teal?style=for-the-badge)](https://geo-dial.com/)
 
 
   Geodial is a Chrome extension and web app for performance marketers to find and research available phone numbers by area code, city, or ZIP code.
