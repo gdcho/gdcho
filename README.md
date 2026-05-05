@@ -254,20 +254,42 @@
 
    ## 🎤 Core Features
   - **One-click detach**
-
     When enabled, a GhostPlayer button appears when you hover over any `<video>` element; hides while the overlay is open, reappears on close
   - **Zero-lag overlay**
-
     The original video element is physically moved into the PiP window; no re-encoding or stream copying
   - **Hide Mode**
-
     Window goes black and video pauses when your cursor leaves; hover back in to instantly resume
   - **Smart injection**
-
     Button only appears on real video players, not preview thumbnails or feed pages
   - **Dynamic detection**
-
     `MutationObserver` catches videos added after page load (SPAs, lazy-loaded players)
+
+  <br/>
+</details>
+
+<details>
+  <summary><strong>🔍 ReText </strong></summary>
+
+  <br/>
+
+[![Coming Soon on Chrome](https://img.shields.io/badge/ReText-Coming_Soon_on_Chrome-yellow?style=for-the-badge)](#)
+
+
+  ReText is A Chrome extension that replaces the browser's native Cmd+F with a powerful find & replace panel on every page.
+  
+  <a href="#">
+    <img src="./retext_banner.png" width="800px" alt="ReText Banner" border="0" />
+  </a>
+
+   ## 🎤 Core Features
+  - **Live find with navigation**  
+    Highlights matches as you type, with a 3/14 counter badge and arrow key / Enter / Cmd+G navigation between them.
+  - **Replace All**  
+    Rewrites DOM text nodes directly; routes through execCommand for contenteditable editors (Notion, Medium, etc.) so the host app's event system stays in sync.
+  - **Regex, Match Case, Whole Word, Preserve Case**  
+    Four search/replace modifiers; Preserve Case maps each replacement to the casing of the match it replaces.
+  - **Redact**  
+    Wraps matches in black bars with click-to-reveal; non-destructive, original text is preserved in the element's textContent.
 
   <br/>
 </details>
