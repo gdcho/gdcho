@@ -272,7 +272,7 @@
 
   <br/>
 
-[![Coming Soon on Chrome](https://img.shields.io/badge/ReText-Coming_Soon_on_Chrome-yellow?style=for-the-badge)](#)
+[![Use on Chrome](https://img.shields.io/badge/ReText-Use_on_Chrome-green?style=for-the-badge)](https://chromewebstore.google.com/detail/retext-cmdctrl-+-f-find-r/phdjcjfnongooikdioahigdfnbcdfkdl?authuser=0&hl=en)
 
 
   ReText is A Chrome extension that replaces the browser's native Cmd+F with a powerful find & replace panel on every page.
