@@ -275,7 +275,7 @@
 [![Use on Chrome](https://img.shields.io/badge/ReText-Use_on_Chrome-green?style=for-the-badge)](https://chromewebstore.google.com/detail/retext-cmdctrl-+-f-find-r/phdjcjfnongooikdioahigdfnbcdfkdl?authuser=0&hl=en)
 
 
-  ReText is A Chrome extension that replaces the browser's native Cmd+F with a powerful find & replace panel on every page.
+  ReText is a Chrome extension that replaces the browser's native Cmd+F with a powerful find & replace panel on every page.
   
   <a href="#">
     <img src="./retext_banner.png" width="800px" alt="ReText Banner" border="0" />
@@ -297,22 +297,31 @@
 
 
 <details>
-  <summary><strong>☕ Support My Work</strong></summary>
+  <summary><strong>🎶 Versa </strong></summary>
 
-   <br/>
+  <br/>
 
-  <a href="https://www.buymeacoffee.com/rjsgml" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"
-      alt="Buy Me a Coffee"
-    />
-  </a>  
+[![Use on Chrome](https://img.shields.io/badge/Versa-Use_on_Chrome-green?style=for-the-badge)](https://chromewebstore.google.com/detail/kopgmabolkpanjpljmbonkaloghdneoc?utm_source=item-share-cb)
 
-  Your support helps me dedicate more time to building meaningful solutions.
-
-   <a href="https://www.linkedin.com/company/rj-labs/">
-    <img src="https://i.ibb.co/bcBz54k/Black-Abstract-Software-Technology-Corporate-Linked-In-Banner-1.png" width="800px" alt="rj labs banner" border="0" />
-  </a>
+  Versa is a Chrome extension that translates lyrics inline inside the Spotify Web Player. Translations are injected directly under each lyric line.
   
+  <a href="#">
+    <img src="./versa.png" width="800px" alt="Versa Banner" border="0" />
+  </a>
+
+   ## 🎤 Core Features
+  - **Auto-detect language**  
+    Per-line detection skips lines already in the target language (e.g. English lines in a K-pop song won't be retranslated to English).
+  - **Recent language pills**  
+    Last 3 used languages shown for quick switching.
+  - **Theme / accent color**  
+    8 presets (green, blue, purple, red, orange, pink, yellow, cyan, rose) + custom hex picker.
+  - **Customization & Keyboard shortcuts**  
+    Font size, opacity, line spacing via shadow DOM sliders & keyboard hotkeys, all rebindable in settings panel.
+
   <br/>
 </details>
+
+
+
+<details>
