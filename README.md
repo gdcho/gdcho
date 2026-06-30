@@ -321,3 +321,31 @@
 
   <br/>
 </details>
+
+<details>
+  <summary><strong>🔤 Vistra </strong></summary>
+
+  <br/>
+
+[![Use on Chrome](https://img.shields.io/badge/Vistra-Use_on_Chrome-green?style=for-the-badge)](https://chromewebstore.google.com/detail/vistra-ocr-translate/lknjgjibdkajpcejopfekhpnjacgmeph?authuser=0&hl=en)
+
+  Versa is a chrome extension that brings OCR + translation to web pages, captured screenshots, clipboard images, and selected text.
+  
+  <a href="#">
+    <img src="./vistra_banner_2.png" width="800px" alt="Vistra Banner" border="0" />
+  </a>
+
+   ## 🎤 Core Features
+  - **Translate entire page**  
+    Popup → Translate Page, or Ctrl/⌘+Shift+Y. Captures the visible viewport, runs OCR on it, and draws the translated text directly over the original, in place.
+  - **Crop & translate**  
+    Popup → Crop & Translate, or Ctrl/⌘+Shift+X. Drag a box around any region; the translation is drawn over the original text, with a card showing the detected language and a 🔊 listen button.
+  - **Clipboard image translate**  
+    Popup → Clipboard tab → paste (Ctrl+V), drop an image, or read from clipboard. OCR runs automatically and draws the translation over the image, Google Lens–style. The raw recognized text also appears in an editable box below the image, so you can correct any OCR misreads and re-translate just that text without redoing OCR.
+  - **Text translate**  
+    Popup → Text tab, or select text on any page → right-click → Translate with Vistra for an instant floating translation.
+  - **26 languages, no unreliable auto-detect**  
+    The source/target dropdowns list every language OCR.space's recognition engine supports. There's no "detect language" option, since OCR.space has no real auto-detect and silently mangles non-Latin text if you ask it to guess; you pick both languages explicitly, and a swap button flips them.
+
+  <br/>
+</details>
